@@ -1,0 +1,11 @@
+player.onTravelled(CLIMB, function () {
+    blocks.place(RAIL, pos(1, 1, 1))
+})
+player.onTravelled(FALL, function () {
+    blocks.place(GRASS, pos(1, 1, 1))
+})
+player.onItemInteracted(IRON_SHOVEL, function () {
+    dig_the_ground += 1
+})
+let dig_the_ground = 0
+player.teleport(pos(132, 67, 9))
