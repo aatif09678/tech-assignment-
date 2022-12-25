@@ -1,0 +1,31 @@
+Outline
+Code (C++ [or cpp], Minecraft MakeCode blocks, Python, JavaScript)
+Comment header
+#author
+#date
+# description
+
+#comments
+
+
+Packages and imports
+
+
+Classes and custom functions
+Def function
+Main programs
+While loop
+Ex: while x>30:
+
+For loop
+Ex: for I in range(1,4)
+
+Nested loop
+Ex: for x in range(1,4)
+         For I in range(3,x)
+
+If statement
+Else statement
+Elif statement
+
+
