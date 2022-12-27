@@ -9,8 +9,7 @@ Comment header
 
 
 Packages and imports
-
-
+The dot (.) operator is used to import modules from packages. Now, we must use the entire name of the function to reference it if this module contains one with the name select difficulty().
 Classes and custom functions
 Def function
 Main programs
@@ -27,5 +26,4 @@ Ex: for x in range(1,4)
 If statement
 Else statement
 Elif statement
-
 
